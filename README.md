@@ -9,6 +9,7 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
   - [Overview](#overview)
     - [The challenge](#the-challenge)
     - [Screenshot](#screenshot)
+    - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
     - [What I learned](#what-i-learned)
@@ -36,6 +37,11 @@ Finished project on a 375px screen
 <br />
 ![Finished project on 375px](solution/Phone%20solution.png)
 
+### Links
+
+- Solution URL: [solution on my frontend mentor profile](https://www.frontendmentor.io/profile/zsoltvarju)
+- Live Site URL: [live site on netlify](https://cheery-frangipane-c61314.netlify.app/#)
+- [![Netlify Status](https://api.netlify.com/api/v1/badges/732cc089-db47-4e17-ae07-334e0108757f/deploy-status)](https://app.netlify.com/sites/cheery-frangipane-c61314/deploys)
 ## My process
 
 ### Built with
