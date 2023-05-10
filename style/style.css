@@ -388,7 +388,6 @@ li:hover {
     display: block;
     position: absolute;
     top: -1px;
-    /* Adjust < -number | number+ > */
     left: 34%;
     width: 1.25rem;
     height: 1.25rem;
@@ -420,6 +419,13 @@ li:hover {
 
 .nav-list li:hover a {
     color: var(--clr-primary-400);
+}
+.nav-list li:focus a {
+    color: var(--clr-primary-400);
+}
+
+.nav-list a:visited {
+    color: var(--clr-accent-900);
 }
 
 .nav-list li:hover a::after {
