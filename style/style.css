@@ -360,6 +360,7 @@ picture img {
     display: flex;
     gap: 1rem;
     flex-basis: 345px;
+    max-height: 127px;
 }
 
 .list-element::before {
